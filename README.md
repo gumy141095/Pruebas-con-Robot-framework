@@ -15,4 +15,4 @@ TypeError: WebDriver.__init__() got an unexpected keyword argument 'service_log_
 y tras investigar, encontre que con esa version en especifico, no se daba dicho error, pero esto podria cambiar mas adelante y de lo mismo hare registro aqui.
 ## Practicas
 ### Practica 1: Busqueda sencilla en Google
-Para esta practica se usara el archivo Practicas/practica1/Busqueda.robot y lo que se buscara hacer es hacer uso del navegador *google* para buscar alguna palabra y corroborar que se encontro algo que contenga dicha palabra.
+Para esta practica se usara el archivo Practicas/Practica1/Busqueda.robot y lo que se buscara hacer es hacer uso del navegador *google* para buscar alguna palabra y corroborar que se encontro algo que contenga dicha palabra.
